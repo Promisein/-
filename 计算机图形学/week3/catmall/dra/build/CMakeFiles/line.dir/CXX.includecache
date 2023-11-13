@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cs18/Desktop/catmall/dra/line.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+

@@ -1,0 +1,3 @@
+/home/cs18/Desktop/catmall/dra/build/CMakeFiles/rebuild_cache.dir
+/home/cs18/Desktop/catmall/dra/build/CMakeFiles/line.dir
+/home/cs18/Desktop/catmall/dra/build/CMakeFiles/edit_cache.dir
