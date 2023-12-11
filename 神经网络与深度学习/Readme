@@ -2,3 +2,9 @@
 MNIST.py是简单的全连接模型实现手写数字集的识别
 LinearModel.py是线性回归模型的建立
 TextClassification 是使用CNN,Transformer,RNN, 全连接模型实现的AG_news 数据集进行分类
+
+补充：
+使用CNN, Transformer, RNN, FC, LSTM实现的中文文本情感分类
+使用jieba分词器
+停词表下载地址：
+数据集：微博评论数据集下载地址：
