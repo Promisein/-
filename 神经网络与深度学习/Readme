@@ -6,5 +6,5 @@ TextClassification 是使用CNN,Transformer,RNN, 全连接模型实现的AG_news
 补充：
 使用CNN, Transformer, RNN, FC, LSTM实现的中文文本情感分类
 使用jieba分词器
-停词表下载地址：
-数据集：微博评论数据集下载地址：
+停词表下载地址：https://github.com/goto456/stopwords
+数据集：微博评论数据集以及数据说明下载地址：https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/simplifyweibo_4_moods/intro.ipynb
